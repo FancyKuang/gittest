@@ -1,2 +1,2 @@
 # gittest
-alter master
+dev
